@@ -1,0 +1,69 @@
+{
+  "item": {
+    "id": "com.sixone.LiarBar",
+    "restype": "quick_app",
+    "name": "骗子酒馆",
+    "description": "腕上桌游\n砰！质疑你！\n风靡全球的骗子酒馆",
+    "preview": [
+      "media/骗子酒馆@2x.png"
+    ],
+    "icon": "media/app logo@4x.png",
+    "cover": "media/骗子酒馆@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "骗子酒馆密钥购买链接",
+      "url": "https://afdian.com/item/a15606cee56111ef846952540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW5-骗子酒馆-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW5-骗子酒馆-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/RW6-骗子酒馆-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.1.0",
+      "file_name": "downloads/环10-骗子酒馆-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/环10-骗子酒馆-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/环10P-骗子酒馆-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.1.0",
+      "file_name": "downloads/环9-骗子酒馆-v1.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/环9P-骗子酒馆-v1.1.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
